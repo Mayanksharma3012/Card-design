@@ -3,6 +3,9 @@
 A clean and responsive card UI built using pure HTML and CSS.
 This project focuses on layout, typography, and modern UI design.
 
+## 📸 Preview
+src="https://github.com/user-attachments/assets/82cfa247-b149-4724-938b-25e82bce5bc1" />
+
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
