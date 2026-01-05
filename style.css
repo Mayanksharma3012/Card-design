@@ -1,0 +1,41 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    
+}
+
+.card{
+   
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.1);
+    padding: 15px;
+}
+img{
+    width: 90%;
+    border-radius: 25px;
+}
+button{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 15px;
+    background-color: teal;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+span{
+    background-color: lightgray;
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin: 5px;
+    font-size: 14px;
+    cursor: pointer;
+}
